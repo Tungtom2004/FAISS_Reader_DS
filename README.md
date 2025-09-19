@@ -1,5 +1,6 @@
 This project is used for the purpose of learning Data Science at PTIT<br>
 **Tech stack:<br>
-vector store: FAISS<br>
-embedding model: sentence-transformers/all-MiniLM-L6<br>
+Vector store: FAISS<br>
+Embedding model: sentence-transformers/all-MiniLM-L6<br>
+LangChain<br>
 PDFReader
